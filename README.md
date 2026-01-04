@@ -61,18 +61,6 @@ cd Raven
 [4] Mass Attack
 [5] Proxy Manager
 ```
-
-## Building from Source
-```bash
-# Install requirements
-pip install pyinstaller
-
-# Create executable
-pyinstaller --onefile --name raven \
-  --add-data "*.py:." \
-  Raven.py
-
-# Result: dist/raven
 ```
 
 ## Legal
