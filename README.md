@@ -61,6 +61,7 @@ cd Raven
 [4] Mass Attack
 [5] Proxy Manager
 ```
+## MORE
 ```
 
 ## Legal
@@ -74,6 +75,3 @@ Crow. | @sefeshki
 MIT - Do whatever, just don't blame me.
 
 ---
-
-**⚠ WARNING:** Educational use only. Author not responsible for misuse.
-```
